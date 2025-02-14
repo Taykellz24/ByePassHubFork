@@ -1,5 +1,5 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! - 170 stars!
+## This is only a fork. Please check out the original ByePassHub.
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 Updates every week, if not daily
 
